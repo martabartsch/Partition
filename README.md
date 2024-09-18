@@ -7,22 +7,23 @@ Hence the upper indices are 124 and 107, thus 5+3+3+2+2+2+2 is larger than 5+2+2
 since 124 is larger than 107.
 
 
-Problem
+## Problem
 
 Starting from the smallest partition, write all partitions of the integer n, which parts are prime numbers and the largest part is equal to k. n can be stored in byte.
 
-Input
+**Input**
 
 In the first line: a number of the rest lines
 Then, separated by spaces: n and k
 
-Output
+**Output**
 
 Partitions separated by +. If there is no partition, then write nothing.
 
-Example
+## Example
 
-Input
+**Input**
+
 3
 
 12 5
@@ -31,7 +32,7 @@ Input
 
 27 17
 
-Output
+**Output**
 
 5+3+2+2
 
